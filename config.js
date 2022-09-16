@@ -5,15 +5,15 @@ import { fileURLToPath } from 'url'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰
 global.owner = [
-  ['5212411347465', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212412377467'],
-  ['5212411719888'],
-  ['5212411453522'],
+  ['18498788218', 'Thomas Shelby', true],
+  ['18498788218'],
+  ['18498788218'],
+  ['18498788218'],
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['5212411347465'], 
+global.prems = ['18498788218'], 
 global.prems = [] 
 global.APIs = { // API Prefix.
   
@@ -72,7 +72,7 @@ global.APIKeys = { // APIKey Here
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
 global.packname = '𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ'
-global.author = '𓈃ּ ៹🍏𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ'
+global.author = '𓈃ּ ៹🍏Thomas shelby𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -94,13 +94,13 @@ global.hadesig = ig
 global.md = 'https://github.com/Yovanihades1212/HADES-BOT-MDV2.git'
 global.hadesbot = md
 
-global.nn = 'https://chat.whatsapp.com/CG5ZPcJ22fL7QjNRzjguD0'
+global.nn = 'https://chat.whatsapp.com/FZ5YppxKl3f5hFw3U5TFtp'
 global.nngrupo = nn
 
-global.nnn = 'https://chat.whatsapp.com/DDm7HC6e5MF9qcdLqB22RQ'
+global.nnn = 'https://chat.whatsapp.com/FZ5YppxKl3f5hFw3U5TFtp'
 global.nnngrupo = nnn
 
-global.paypal = 'https://pay'
+global.paypal = 'Telo🥭meto.com'
 global.donar = paypal
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
@@ -134,7 +134,7 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸|𝙷𝚊𝚍𝚎𝚜-𝚋𝚘𝚝-𝙼𝙳'
+global.wm = 'Thomas shelby|𝙷𝚊𝚍𝚎𝚜-𝚋𝚘𝚝-𝙼𝙳'
 global.igfg = '𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
